@@ -1,1 +1,2 @@
 file02 in work01
+file02 in stash
